@@ -21,6 +21,8 @@
         <input type ="number" name="numB"/>
         <button tyoe = "submit">Somar</button>
         <h1>Resultado: <%= result %></h1>
+        <!--%= é basicamente o que quer printar la-->
+        <!--JSP é uma das maneiras que existe de executar numa web-->
     </form>
     
 </body>
